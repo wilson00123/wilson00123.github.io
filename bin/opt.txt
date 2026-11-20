@@ -1,0 +1,6 @@
+mode=1;  
+time=3; 
+playnum=4;  
+handrun=0;
+sdplay=0;
+dst=2;
